@@ -1,2403 +1,2102 @@
-
 [
   {
     "Sr No.": 1,
     "Date/Time": "2024-06-28 17:43:39",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 2,
     "Date/Time": "2024-06-28 17:43:39",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 3,
     "Date/Time": "2024-06-28 17:43:39",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 4,
     "Date/Time": "2024-06-28 17:43:39",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 5,
     "Date/Time": "2024-06-28 17:43:39",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 6,
     "Date/Time": "2024-06-28 17:43:39",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 7,
     "Date/Time": "2024-06-28 17:45:05",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 8,
     "Date/Time": "2024-06-28 17:45:05",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.38
+    "Thickness": 3.38
   },
   {
     "Sr No.": 9,
     "Date/Time": "2024-06-28 17:45:05",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 10,
     "Date/Time": "2024-06-28 17:45:05",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 11,
     "Date/Time": "2024-06-28 17:45:05",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 12,
     "Date/Time": "2024-06-28 17:45:05",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.38
+    "Thickness": 3.38
   },
   {
     "Sr No.": 13,
     "Date/Time": "2024-06-28 18:40:59",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 14,
     "Date/Time": "2024-06-28 18:40:59",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 15,
     "Date/Time": "2024-06-28 18:40:59",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 16,
     "Date/Time": "2024-06-28 18:40:59",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 17,
     "Date/Time": "2024-06-28 18:40:59",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 18,
     "Date/Time": "2024-06-28 18:40:59",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.38
+    "Thickness": 3.38
   },
   {
     "Sr No.": 19,
     "Date/Time": "2024-06-28 18:42:38",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 20,
     "Date/Time": "2024-06-28 18:42:38",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 21,
     "Date/Time": "2024-06-28 18:42:38",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 22,
     "Date/Time": "2024-06-28 18:42:38",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 23,
     "Date/Time": "2024-06-28 18:42:38",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 24,
     "Date/Time": "2024-06-28 18:42:38",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 25,
     "Date/Time": "2024-06-28 20:07:32",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 26,
     "Date/Time": "2024-06-28 20:07:32",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.38
+    "Thickness": 3.38
   },
   {
     "Sr No.": 27,
     "Date/Time": "2024-06-28 20:07:32",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 28,
     "Date/Time": "2024-06-28 20:07:32",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 29,
     "Date/Time": "2024-06-28 20:07:32",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 30,
     "Date/Time": "2024-06-28 20:07:32",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 31,
     "Date/Time": "2024-06-28 20:08:44",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 32,
     "Date/Time": "2024-06-28 20:08:44",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 33,
     "Date/Time": "2024-06-28 20:08:44",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 34,
     "Date/Time": "2024-06-28 20:08:44",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 35,
     "Date/Time": "2024-06-28 20:08:44",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 36,
     "Date/Time": "2024-06-28 20:08:44",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 37,
     "Date/Time": "2024-06-28 22:50:11",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 38,
     "Date/Time": "2024-06-28 22:50:11",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 39,
     "Date/Time": "2024-06-28 22:50:11",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 40,
     "Date/Time": "2024-06-28 22:50:11",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 41,
     "Date/Time": "2024-06-28 22:50:11",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 42,
     "Date/Time": "2024-06-28 22:50:11",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 43,
     "Date/Time": "2024-06-28 22:51:21",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 44,
     "Date/Time": "2024-06-28 22:51:21",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 45,
     "Date/Time": "2024-06-28 22:51:21",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 46,
     "Date/Time": "2024-06-28 22:51:21",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 47,
     "Date/Time": "2024-06-28 22:51:21",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 48,
     "Date/Time": "2024-06-28 22:51:21",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 49,
     "Date/Time": "2024-06-28 23:42:37",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 50,
     "Date/Time": "2024-06-28 23:42:37",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 51,
     "Date/Time": "2024-06-28 23:42:37",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 52,
     "Date/Time": "2024-06-28 23:42:37",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 53,
     "Date/Time": "2024-06-28 23:42:37",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 54,
     "Date/Time": "2024-06-28 23:42:37",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.38
+    "Thickness": 3.38
   },
   {
     "Sr No.": 55,
     "Date/Time": "2024-06-28 23:45:01",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 56,
     "Date/Time": "2024-06-28 23:45:01",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 57,
     "Date/Time": "2024-06-28 23:45:01",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 58,
     "Date/Time": "2024-06-28 23:45:01",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 59,
     "Date/Time": "2024-06-28 23:45:01",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 60,
     "Date/Time": "2024-06-28 23:45:01",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 61,
     "Date/Time": "2024-06-29 00:51:56",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 62,
     "Date/Time": "2024-06-29 00:51:56",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 63,
     "Date/Time": "2024-06-29 00:51:56",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 64,
     "Date/Time": "2024-06-29 00:51:56",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 65,
     "Date/Time": "2024-06-29 00:51:56",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 66,
     "Date/Time": "2024-06-29 00:51:56",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.27
+    "Thickness": 3.27
   },
   {
     "Sr No.": 67,
     "Date/Time": "2024-06-29 00:53:05",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.27
+    "Thickness": 3.27
   },
   {
     "Sr No.": 68,
     "Date/Time": "2024-06-29 00:53:05",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.27
+    "Thickness": 3.27
   },
   {
     "Sr No.": 69,
     "Date/Time": "2024-06-29 00:53:05",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 70,
     "Date/Time": "2024-06-29 00:53:05",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 71,
     "Date/Time": "2024-06-29 00:53:05",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.25
+    "Thickness": 3.25
   },
   {
     "Sr No.": 72,
     "Date/Time": "2024-06-29 00:53:05",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.27
+    "Thickness": 3.27
   },
   {
     "Sr No.": 73,
     "Date/Time": "2024-06-29 01:22:18",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 74,
     "Date/Time": "2024-06-29 01:22:18",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 75,
     "Date/Time": "2024-06-29 01:22:18",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 76,
     "Date/Time": "2024-06-29 01:22:18",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 77,
     "Date/Time": "2024-06-29 01:22:18",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 78,
     "Date/Time": "2024-06-29 01:22:18",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.26
+    "Thickness": 3.26
   },
   {
     "Sr No.": 79,
     "Date/Time": "2024-06-29 01:24:45",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.26
+    "Thickness": 3.26
   },
   {
     "Sr No.": 80,
     "Date/Time": "2024-06-29 01:24:45",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 81,
     "Date/Time": "2024-06-29 01:24:45",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 82,
     "Date/Time": "2024-06-29 01:24:45",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 83,
     "Date/Time": "2024-06-29 01:24:45",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 84,
     "Date/Time": "2024-06-29 01:24:45",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 85,
     "Date/Time": "2024-06-29 01:53:26",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 86,
     "Date/Time": "2024-06-29 01:53:26",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 87,
     "Date/Time": "2024-06-29 01:53:26",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 88,
     "Date/Time": "2024-06-29 01:53:26",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 89,
     "Date/Time": "2024-06-29 01:53:26",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 90,
     "Date/Time": "2024-06-29 01:53:26",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 91,
     "Date/Time": "2024-06-29 01:55:01",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 92,
     "Date/Time": "2024-06-29 01:55:01",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 93,
     "Date/Time": "2024-06-29 01:55:01",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 94,
     "Date/Time": "2024-06-29 01:55:01",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 95,
     "Date/Time": "2024-06-29 01:55:01",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 96,
     "Date/Time": "2024-06-29 01:55:01",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 97,
     "Date/Time": "2024-06-29 03:01:38",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 98,
     "Date/Time": "2024-06-29 03:01:38",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 99,
     "Date/Time": "2024-06-29 03:01:38",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 100,
     "Date/Time": "2024-06-29 03:01:38",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 101,
     "Date/Time": "2024-06-29 03:01:38",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 102,
     "Date/Time": "2024-06-29 03:01:38",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 103,
     "Date/Time": "2024-06-29 03:03:52",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 104,
     "Date/Time": "2024-06-29 03:03:52",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 105,
     "Date/Time": "2024-06-29 03:03:52",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 106,
     "Date/Time": "2024-06-29 03:03:52",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.26
+    "Thickness": 3.26
   },
   {
     "Sr No.": 107,
     "Date/Time": "2024-06-29 03:03:52",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 108,
     "Date/Time": "2024-06-29 03:03:52",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.26
+    "Thickness": 3.26
   },
   {
     "Sr No.": 109,
     "Date/Time": "2024-06-29 04:17:08",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 110,
     "Date/Time": "2024-06-29 04:17:08",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 111,
     "Date/Time": "2024-06-29 04:17:08",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 112,
     "Date/Time": "2024-06-29 04:17:08",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 113,
     "Date/Time": "2024-06-29 04:17:08",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 114,
     "Date/Time": "2024-06-29 04:17:08",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 115,
     "Date/Time": "2024-06-29 04:18:38",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 116,
     "Date/Time": "2024-06-29 04:18:38",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 117,
     "Date/Time": "2024-06-29 04:18:38",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 118,
     "Date/Time": "2024-06-29 04:18:38",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 119,
     "Date/Time": "2024-06-29 04:18:38",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 120,
     "Date/Time": "2024-06-29 04:18:38",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 121,
     "Date/Time": "2024-06-29 05:21:49",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 122,
     "Date/Time": "2024-06-29 05:21:49",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 123,
     "Date/Time": "2024-06-29 05:21:49",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 124,
     "Date/Time": "2024-06-29 05:21:49",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.27
+    "Thickness": 3.27
   },
   {
     "Sr No.": 125,
     "Date/Time": "2024-06-29 05:21:49",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 126,
     "Date/Time": "2024-06-29 05:21:49",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 127,
     "Date/Time": "2024-06-29 05:22:53",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 128,
     "Date/Time": "2024-06-29 05:22:53",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 129,
     "Date/Time": "2024-06-29 05:22:53",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 130,
     "Date/Time": "2024-06-29 05:22:53",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 131,
     "Date/Time": "2024-06-29 05:22:53",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 132,
     "Date/Time": "2024-06-29 05:22:53",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 133,
     "Date/Time": "2024-06-29 06:24:02",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 134,
     "Date/Time": "2024-06-29 06:24:02",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 135,
     "Date/Time": "2024-06-29 06:24:02",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 136,
     "Date/Time": "2024-06-29 06:24:02",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 137,
     "Date/Time": "2024-06-29 06:24:02",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 138,
     "Date/Time": "2024-06-29 06:24:02",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 139,
     "Date/Time": "2024-06-29 06:25:13",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 140,
     "Date/Time": "2024-06-29 06:25:13",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 141,
     "Date/Time": "2024-06-29 06:25:13",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 142,
     "Date/Time": "2024-06-29 06:25:13",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 143,
     "Date/Time": "2024-06-29 06:25:13",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 144,
     "Date/Time": "2024-06-29 06:25:13",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 145,
     "Date/Time": "2024-06-29 07:34:16",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.27
+    "Thickness": 3.27
   },
   {
     "Sr No.": 146,
     "Date/Time": "2024-06-29 07:34:16",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 147,
     "Date/Time": "2024-06-29 07:34:16",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.27
+    "Thickness": 3.27
   },
   {
     "Sr No.": 148,
     "Date/Time": "2024-06-29 07:34:16",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 149,
     "Date/Time": "2024-06-29 07:34:16",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 150,
     "Date/Time": "2024-06-29 07:34:16",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 151,
     "Date/Time": "2024-06-29 07:36:36",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 152,
     "Date/Time": "2024-06-29 07:36:36",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 153,
     "Date/Time": "2024-06-29 07:36:36",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 154,
     "Date/Time": "2024-06-29 07:36:36",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 155,
     "Date/Time": "2024-06-29 07:36:36",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 156,
     "Date/Time": "2024-06-29 07:36:36",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 157,
     "Date/Time": "2024-06-29 08:30:14",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 158,
     "Date/Time": "2024-06-29 08:30:14",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 159,
     "Date/Time": "2024-06-29 08:30:14",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 160,
     "Date/Time": "2024-06-29 08:30:14",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 161,
     "Date/Time": "2024-06-29 08:30:14",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 162,
     "Date/Time": "2024-06-29 08:30:14",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 163,
     "Date/Time": "2024-06-29 08:32:23",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 164,
     "Date/Time": "2024-06-29 08:32:23",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 165,
     "Date/Time": "2024-06-29 08:32:23",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 166,
     "Date/Time": "2024-06-29 08:32:23",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 167,
     "Date/Time": "2024-06-29 08:32:23",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 168,
     "Date/Time": "2024-06-29 08:32:23",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 169,
     "Date/Time": "2024-06-29 09:37:15",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 170,
     "Date/Time": "2024-06-29 09:37:15",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 171,
     "Date/Time": "2024-06-29 09:37:15",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 172,
     "Date/Time": "2024-06-29 09:37:15",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 173,
     "Date/Time": "2024-06-29 09:37:15",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 174,
     "Date/Time": "2024-06-29 09:37:15",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 175,
     "Date/Time": "2024-06-29 09:38:43",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 176,
     "Date/Time": "2024-06-29 09:38:43",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 177,
     "Date/Time": "2024-06-29 09:38:43",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 178,
     "Date/Time": "2024-06-29 09:38:43",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 179,
     "Date/Time": "2024-06-29 09:38:43",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 180,
     "Date/Time": "2024-06-29 09:38:43",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 181,
     "Date/Time": "2024-06-29 10:39:48",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 182,
     "Date/Time": "2024-06-29 10:39:48",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 183,
     "Date/Time": "2024-06-29 10:39:48",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 184,
     "Date/Time": "2024-06-29 10:39:48",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 185,
     "Date/Time": "2024-06-29 10:39:48",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 186,
     "Date/Time": "2024-06-29 10:39:48",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 187,
     "Date/Time": "2024-06-29 10:40:53",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 188,
     "Date/Time": "2024-06-29 10:40:53",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 189,
     "Date/Time": "2024-06-29 10:40:53",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 190,
     "Date/Time": "2024-06-29 10:40:53",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 191,
     "Date/Time": "2024-06-29 10:40:53",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 192,
     "Date/Time": "2024-06-29 10:40:53",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 193,
     "Date/Time": "2024-06-29 11:47:15",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 194,
     "Date/Time": "2024-06-29 11:47:15",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 195,
     "Date/Time": "2024-06-29 11:47:15",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 196,
     "Date/Time": "2024-06-29 11:47:15",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 197,
     "Date/Time": "2024-06-29 11:47:15",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.26
+    "Thickness": 3.26
   },
   {
     "Sr No.": 198,
     "Date/Time": "2024-06-29 11:47:15",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 199,
     "Date/Time": "2024-06-29 11:48:33",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 200,
     "Date/Time": "2024-06-29 11:48:33",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 201,
     "Date/Time": "2024-06-29 11:48:33",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 202,
     "Date/Time": "2024-06-29 11:48:33",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 203,
     "Date/Time": "2024-06-29 11:48:33",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 204,
     "Date/Time": "2024-06-29 11:48:33",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 205,
     "Date/Time": "2024-06-29 13:13:36",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 206,
     "Date/Time": "2024-06-29 13:13:36",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 207,
     "Date/Time": "2024-06-29 13:13:36",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 208,
     "Date/Time": "2024-06-29 13:13:36",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 209,
     "Date/Time": "2024-06-29 13:13:36",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 210,
     "Date/Time": "2024-06-29 13:13:36",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 211,
     "Date/Time": "2024-06-29 13:15:37",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 212,
     "Date/Time": "2024-06-29 13:15:37",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 213,
     "Date/Time": "2024-06-29 13:15:37",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 214,
     "Date/Time": "2024-06-29 13:15:37",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 215,
     "Date/Time": "2024-06-29 13:15:37",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 216,
     "Date/Time": "2024-06-29 13:15:37",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 217,
     "Date/Time": "2024-06-29 14:13:48",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 218,
     "Date/Time": "2024-06-29 14:13:48",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 219,
     "Date/Time": "2024-06-29 14:13:48",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 220,
     "Date/Time": "2024-06-29 14:13:48",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 221,
     "Date/Time": "2024-06-29 14:13:48",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 222,
     "Date/Time": "2024-06-29 14:13:48",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 223,
     "Date/Time": "2024-06-29 14:14:57",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 224,
     "Date/Time": "2024-06-29 14:14:57",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 225,
     "Date/Time": "2024-06-29 14:14:57",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 226,
     "Date/Time": "2024-06-29 14:14:57",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 227,
     "Date/Time": "2024-06-29 14:14:57",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.39
+    "Thickness": 3.39
   },
   {
     "Sr No.": 228,
     "Date/Time": "2024-06-29 14:14:57",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 229,
     "Date/Time": "2024-06-29 15:15:37",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 230,
     "Date/Time": "2024-06-29 15:15:37",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 231,
     "Date/Time": "2024-06-29 15:15:37",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 232,
     "Date/Time": "2024-06-29 15:15:37",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 233,
     "Date/Time": "2024-06-29 15:15:37",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 234,
     "Date/Time": "2024-06-29 15:15:37",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 235,
     "Date/Time": "2024-06-29 15:17:35",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 236,
     "Date/Time": "2024-06-29 15:17:35",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 237,
     "Date/Time": "2024-06-29 15:17:35",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 238,
     "Date/Time": "2024-06-29 15:17:35",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.26
+    "Thickness": 3.26
   },
   {
     "Sr No.": 239,
     "Date/Time": "2024-06-29 15:17:35",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.26
+    "Thickness": 3.26
   },
   {
     "Sr No.": 240,
     "Date/Time": "2024-06-29 15:17:35",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 241,
     "Date/Time": "2024-06-29 16:40:45",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 242,
     "Date/Time": "2024-06-29 16:40:45",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 243,
     "Date/Time": "2024-06-29 16:40:45",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 244,
     "Date/Time": "2024-06-29 16:40:45",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 245,
     "Date/Time": "2024-06-29 16:40:45",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 246,
     "Date/Time": "2024-06-29 16:40:45",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 247,
     "Date/Time": "2024-06-29 16:42:31",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 248,
     "Date/Time": "2024-06-29 16:42:31",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.38
+    "Thickness": 3.38
   },
   {
     "Sr No.": 249,
     "Date/Time": "2024-06-29 16:42:31",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 250,
     "Date/Time": "2024-06-29 16:42:31",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 251,
     "Date/Time": "2024-06-29 16:42:31",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 252,
     "Date/Time": "2024-06-29 16:42:31",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 253,
     "Date/Time": "2024-06-29 17:41:04",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 254,
     "Date/Time": "2024-06-29 17:41:04",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 255,
     "Date/Time": "2024-06-29 17:41:04",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.38
+    "Thickness": 3.38
   },
   {
     "Sr No.": 256,
     "Date/Time": "2024-06-29 17:41:04",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 257,
     "Date/Time": "2024-06-29 17:41:04",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 258,
     "Date/Time": "2024-06-29 17:41:04",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 259,
     "Date/Time": "2024-06-29 17:42:08",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 260,
     "Date/Time": "2024-06-29 17:42:08",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 261,
     "Date/Time": "2024-06-29 17:42:08",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 262,
     "Date/Time": "2024-06-29 17:42:08",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 263,
     "Date/Time": "2024-06-29 17:42:08",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 264,
     "Date/Time": "2024-06-29 17:42:08",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 265,
     "Date/Time": "2024-06-29 18:39:07",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 266,
     "Date/Time": "2024-06-29 18:39:07",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 267,
     "Date/Time": "2024-06-29 18:39:07",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 268,
     "Date/Time": "2024-06-29 18:39:07",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 269,
     "Date/Time": "2024-06-29 18:39:07",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 270,
     "Date/Time": "2024-06-29 18:39:07",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 271,
     "Date/Time": "2024-06-29 18:40:22",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 272,
     "Date/Time": "2024-06-29 18:40:22",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.31
+    "Thickness": 3.31
   },
   {
     "Sr No.": 273,
     "Date/Time": "2024-06-29 18:40:22",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 274,
     "Date/Time": "2024-06-29 18:40:22",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 275,
     "Date/Time": "2024-06-29 18:40:22",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 276,
     "Date/Time": "2024-06-29 18:40:22",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 277,
     "Date/Time": "2024-06-29 20:11:24",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.28
+    "Thickness": 3.28
   },
   {
     "Sr No.": 278,
     "Date/Time": "2024-06-29 20:11:24",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 279,
     "Date/Time": "2024-06-29 20:11:24",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 280,
     "Date/Time": "2024-06-29 20:11:24",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 281,
     "Date/Time": "2024-06-29 20:11:24",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.26
+    "Thickness": 3.26
   },
   {
     "Sr No.": 282,
     "Date/Time": "2024-06-29 20:11:24",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 283,
     "Date/Time": "2024-06-29 20:12:30",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.29
+    "Thickness": 3.29
   },
   {
     "Sr No.": 284,
     "Date/Time": "2024-06-29 20:12:30",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 285,
     "Date/Time": "2024-06-29 20:12:30",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.35
+    "Thickness": 3.35
   },
   {
     "Sr No.": 286,
     "Date/Time": "2024-06-29 20:12:30",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 287,
     "Date/Time": "2024-06-29 20:12:30",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 288,
     "Date/Time": "2024-06-29 20:12:30",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 289,
     "Date/Time": "2024-06-29 21:03:35",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 290,
     "Date/Time": "2024-06-29 21:03:35",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 291,
     "Date/Time": "2024-06-29 21:03:35",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.37
+    "Thickness": 3.37
   },
   {
     "Sr No.": 292,
     "Date/Time": "2024-06-29 21:03:35",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.36
+    "Thickness": 3.36
   },
   {
     "Sr No.": 293,
     "Date/Time": "2024-06-29 21:03:35",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 294,
     "Date/Time": "2024-06-29 21:03:35",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 295,
     "Date/Time": "2024-06-29 21:04:57",
     "Batch Number": 24142091,
     "Test No.": 1,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   },
   {
     "Sr No.": 296,
     "Date/Time": "2024-06-29 21:04:57",
     "Batch Number": 24142091,
     "Test No.": 2,
-    "Thickness": "Thickness",
-    "Value": 3.27
+    "Thickness": 3.27
   },
   {
     "Sr No.": 297,
     "Date/Time": "2024-06-29 21:04:57",
     "Batch Number": 24142091,
     "Test No.": 3,
-    "Thickness": "Thickness",
-    "Value": 3.3
+    "Thickness": 3.3
   },
   {
     "Sr No.": 298,
     "Date/Time": "2024-06-29 21:04:57",
     "Batch Number": 24142091,
     "Test No.": 4,
-    "Thickness": "Thickness",
-    "Value": 3.32
+    "Thickness": 3.32
   },
   {
     "Sr No.": 299,
     "Date/Time": "2024-06-29 21:04:57",
     "Batch Number": 24142091,
     "Test No.": 5,
-    "Thickness": "Thickness",
-    "Value": 3.34
+    "Thickness": 3.34
   },
   {
     "Sr No.": 300,
     "Date/Time": "2024-06-29 21:04:57",
     "Batch Number": 24142091,
     "Test No.": 6,
-    "Thickness": "Thickness",
-    "Value": 3.33
+    "Thickness": 3.33
   }
 ]
